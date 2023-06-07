@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-color: rgb(150, 204, 243);
+    background-image: url("../images/nba-playoffs.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.main-container {
+    border: 2px solid white;
+    background-color: rgba(7, 6, 6, 0.874);
+    border-radius: 10px;
+    padding: 20px;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.main-container h1,
+.main-container p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+}
+
+nav {
+    text-align: center;
+    background-color: rgba(7, 6, 6, 0.874);
+    border: 3px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 10px;
+    text-emphasis-color: white;
+    
+}
+
+
